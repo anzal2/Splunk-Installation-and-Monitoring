@@ -159,11 +159,6 @@ Feel free to open a Pull Request or Issue.
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 🙌 Author
 
